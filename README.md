@@ -13,7 +13,7 @@
 
 - 💞️ I’m looking to collaborate on **Android Projects**
 
-- 📫 How to reach me **azmat5star@gmail.com**
+- 📫 How to reach me **azmat.apk@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
