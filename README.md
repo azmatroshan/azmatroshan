@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azmatroshan&label=Profile%20views&color=0e75b6&style=flat" alt="azmatroshan" /> </p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/azmatstar?label=Follow)](https://twitter.com/intent/follow?screen_name=azmatstar)
-[![Linkedin: Azmat](https://img.shields.io/badge/-Azmat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azmatroshan/)](https://www.linkedin.com/in/azmatroshan/)
 ![GitHub followers](https://img.shields.io/github/followers/azmatroshan?label=Follow&style=social)
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azmatroshan" alt="azmatroshan" /></a> </p> -->
@@ -13,7 +12,7 @@
 
 - 💞️ I’m looking to collaborate on **Android Projects**
 
-- 📫 How to reach me **azmat.apk@gmail.com**
+- 📫 How to reach me **azmat5star@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
