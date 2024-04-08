@@ -8,9 +8,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azmatroshan" alt="azmatroshan" /></a> </p> -->
 
-- 💬 Ask me about **#android #dsa #kotlin #c++**
+- 💬 Ask me about **#android #dsa #kotlin #c++ #node #react #javascript**
 
-- 💞️ I’m looking to collaborate on **Android Projects**
+- 💞️ I’m looking to collaborate on **Android** & **Web Projects**.
 
 - 📫 How to reach me **azmat5star@gmail.com**
 
